@@ -2,7 +2,7 @@
 
 A C embedded engineer currently working in the access control field.
 
-I'm interested in cryptography and the broader field of software development, and I'm passionate about topics surrounding self-hosting and digital autonomy—subjects I'm actively working on.
+I'm interested in cryptography and the broader field of software development, and I'm passionate about topics surrounding cryptography, self-hosting and digital autonomy—subjects I'm actively working on.
 
 Here are a few things to know about me at the moment:
 - Beginner in Rust
