@@ -9,6 +9,11 @@ Here are a few things to know about me at the moment:
 - The projects below are the ones I'm currently working on 
 - Owner of Raspberry Pi(s) on which I deploy self-hosted services for my personal use.
 
+## Personal website
+
+Please check out my website if you'd like to learn more about me:
+- [ficaud.xyz](https://ficaud.xyz)
+
 ## Languages & tools I know
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
