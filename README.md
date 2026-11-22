@@ -6,8 +6,9 @@ I'm interested in cryptography and the broader field of software development, an
 
 Here are a few things to know about me at the moment:
 - Beginner in Rust
+- Love Docker
+- Owner of personal private server both at home and on the cloud on which I host most of my personal services
 - The projects below are the ones I'm currently working on 
-- Owner of Raspberry Pi(s) on which I deploy self-hosted services for my personal use.
 
 ## Personal website
 
